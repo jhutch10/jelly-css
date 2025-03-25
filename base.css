@@ -3,6 +3,8 @@
     Please note that this theme is still in development and may not be fully functional.
     This theme is based on the Jellyfin default theme.
     This theme is licensed under the MIT License.
+
+    To OS CDN: https://www.jsdelivr.com/github
 */
 
 :root {
@@ -26,13 +28,13 @@
     --theme-blur: 16px;
 }
 
-/* Backup code in case text doesn't change
+/* Backup code in case text color everywhere doesn't change */
 .card {	color: #77d4e9; }
 .pageTitle { color: #77d4e9; }
 .emby-button { color: #77d4e9; }
 .emby-tab-button-active { color: #77d4e9; }
 body { color: #77d4e9; }
-*|
+
 
 /* Remove the Default Focus Outline */
 *:focus-visible {
