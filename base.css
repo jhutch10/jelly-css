@@ -29,11 +29,9 @@
 }
 
 /* Backup code in case text color everywhere doesn't change */
-.card {	color: #77d4e9 !important; }
-.pageTitle { color: #77d4e9 !important; }
-.emby-button { color: #77d4e9 !important; }
-.emby-tab-button-active { color: #77d4e9 !important; }
-body { color: #77d4e9 !important; }
+.card, .pageTitle {	
+    color: #77d4e9 !important; 
+}
 
 
 /* Remove the Default Focus Outline */
@@ -782,7 +780,7 @@ progress {
 */
 
 :root {
-    --logo-url: url('https://cdn.jsdelivr.net/gh/jhutch10/jelly-css@refs/heads/main/Bork%20Bark%20(DD%20logo).png');
+    --logo-url: url('https://raw.githubusercontent.com/jhutch10/jelly-css/refs/heads/main/Bork%20Bark%20(DD%20logo).png');
 }
 
 .pageTitleWithDefaultLogo,
