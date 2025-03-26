@@ -20,8 +20,8 @@
     --theme-progress-bar-colour: #cfcfcf;
     --theme-progress-bar-background-colour: #2c2c32;
     --theme-progress-bar-transcoding-colour: #dde990;
-	--count-indicator-colour: rgba(148, 148, 148, 0.75);
-	scrollbar-color: #141125 #0d0b0e !important;
+    --count-indicator-colour: rgba(148, 148, 148, 0.75);
+    scrollbar-color: #141125 #0d0b0e !important;
 
     /* General Appearance */
     --theme-roundness: 1rem;
@@ -782,7 +782,7 @@ progress {
 */
 
 :root {
-    --logo-url: url('https://raw.githubusercontent.com/JamsRepos/Jamfin@latest/main/assets/banner.png');
+    --logo-url: url('https://cdn.jsdelivr.net/gh/jhutch10/jelly-css@refs/heads/main/Bork%20Bark%20(DD%20logo).png');
 }
 
 .pageTitleWithDefaultLogo,
