@@ -29,11 +29,11 @@
 }
 
 /* Backup code in case text color everywhere doesn't change */
-.card {	color: #77d4e9; }
-.pageTitle { color: #77d4e9; }
-.emby-button { color: #77d4e9; }
-.emby-tab-button-active { color: #77d4e9; }
-body { color: #77d4e9; }
+.card {	color: #77d4e9 !important; }
+.pageTitle { color: #77d4e9 !important; }
+.emby-button { color: #77d4e9 !important; }
+.emby-tab-button-active { color: #77d4e9 !important; }
+body { color: #77d4e9 !important; }
 
 
 /* Remove the Default Focus Outline */
